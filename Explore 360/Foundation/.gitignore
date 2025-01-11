@@ -1,0 +1,21 @@
+# Ignore compiled executables
+*.exe
+
+# Ignore object files and other temporary files
+*.o
+*.obj
+
+# Ignore backup or temporary files often created by editors/IDEs
+*~
+*.swp
+.DS_Store
+Thumbs.db
+
+# Ignore debug files
+*.dSYM/
+*.pdb
+*.log
+
+# Ignore IDE-specific folders (optional, depending on the tools you use)
+.vscode/
+.idea/
